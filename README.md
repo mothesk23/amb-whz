@@ -1,6 +1,6 @@
-# AMB WHZ Zotero Citation Style
+# AMB WHZ Zwickau – Zotero Citation Style
 
-Zotero citation style for the AMB faculty at Westsächsische Hochschule Zwickau (WHZ).
+Zotero citation style for the AMB faculty at the Westsächsische Hochschule Zwickau (WHZ).
 
 ## Installation
 1. Download `amb-whz.csl` from this repository.
